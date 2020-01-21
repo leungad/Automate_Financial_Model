@@ -28,14 +28,18 @@ Say what the step will be
 ```
 Give the example
 ```
+![Image of Excel File](https://picturesadrianblog.s3-us-west-2.amazonaws.com/BTS_Pic.png)
+Visual of standardized XLSX file generated from the Capital IQ database.
 
-And repeat
+![Image of Revenue Model Output](https://picturesadrianblog.s3-us-west-2.amazonaws.com/revenue_model.png)
+Once formatted the generated output is shown. It can be customized by color for historical and forecasted colors (Blue/ Light Blue)
+I will be implementing an option to input what colors you want to specify.
 
 ```
 until finished
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+I plan to generate a web-application that will allow users to input the files, and generate a download of the output.
 
 ## Running the tests
 
