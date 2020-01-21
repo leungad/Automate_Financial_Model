@@ -3,11 +3,13 @@ Automate Financial Modeling from Capital IQ
 
 # Automate_Financial_Model
 
-One Paragraph of project description goes here
+Utilizing OpenPyXL to automate financial modeling tasks within equity research. The files that are converted/formatted are standardized Capital IQ Financial Statements/ Key Statistics. The script will firstly generate a generic revenue model from the revenue segments, a discounted cashflow model from the income statement, and a sheet for the discounted cashflow assumptions. It leaves empty the percentages for the user to input their assumtions of growth.
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+An example of an Excel file will be attached. 
 
 ### Prerequisites
 
@@ -61,9 +63,7 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [OpenPyXL](https://openpyxl.readthedocs.io/en/stable/index.html) - The excel manipulation library used
 
 ## Contributing
 
