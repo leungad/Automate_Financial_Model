@@ -1,6 +1,8 @@
 # automate_fin_model
 Automate Financial Modeling from Capital IQ
 
+------- Under Construction --------------------------------------------------
+
 # Automate_Financial_Model
 
 Utilizing OpenPyXL to automate financial modeling tasks within equity research. The files that are converted/formatted are standardized Capital IQ Financial Statements/ Key Statistics. The script will firstly generate a generic revenue model from the revenue segments, a discounted cashflow model from the income statement, and a sheet for the discounted cashflow assumptions. It leaves empty the percentages for the user to input their assumtions of growth.
