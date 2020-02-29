@@ -1,4 +1,4 @@
-# automate_fin_model
+# Automate_Financial_Model
 Automate Financial Modeling from Capital IQ
 
 ------- Under Construction --------------------------------------------------
